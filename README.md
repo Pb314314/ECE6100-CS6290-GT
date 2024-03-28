@@ -2,13 +2,13 @@
 
 Hi visitors. I am a master student at Georgia Tech and this reposory is for ECE6100/CS6290 2024 Spring.
 
-### Project 1 : Cache simulator
+### Project 1 : Cache simulator(100/100)
 
 * Write-Back/Write-Allocate L1 cache
 * Write-Through/Write-No-Allocate L2 cache
 * Insertion policy, replacement policy, prefetching.
 
-### Project2 : Tomasulo & Branch Predictor Simulator
+### Project2 : Tomasulo & Branch Predictor Simulator(?/100)
 
 Branch Predictor:
 
