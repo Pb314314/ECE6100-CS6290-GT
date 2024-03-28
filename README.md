@@ -1,4 +1,4 @@
-# ECE6100-CS6290-GT
+# ECE6100/CS6290 Projects
 
 Hi visitors. I am a master student at Georgia Tech and this reposory is for ECE6100/CS6290 2024 Spring.
 
