@@ -1,0 +1,1080 @@
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Prefetcher disabled.
+2.717 62.066
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,2). LRU. +1 prefetcher. MIP.
+2.670 48.729
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Strided prefetcher. MIP.
+2.679 51.305
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Prefetcher disabled.
+2.717 62.066
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,2). LRU. +1 prefetcher. LIP.
+2.670 48.729
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Strided prefetcher. LIP.
+2.679 51.305
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Prefetcher disabled.
+2.716 61.766
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,3). LRU. +1 prefetcher. MIP.
+2.669 48.429
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Strided prefetcher. MIP.
+2.678 51.005
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Prefetcher disabled.
+2.716 61.766
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,3). LRU. +1 prefetcher. LIP.
+2.669 48.429
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Strided prefetcher. LIP.
+2.678 51.005
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Prefetcher disabled.
+2.716 61.766
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,4). LRU. +1 prefetcher. MIP.
+2.669 48.429
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Strided prefetcher. MIP.
+2.678 51.005
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Prefetcher disabled.
+2.716 61.766
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,4). LRU. +1 prefetcher. LIP.
+2.669 48.429
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Strided prefetcher. LIP.
+2.678 51.005
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Prefetcher disabled.
+2.716 61.766
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,5). LRU. +1 prefetcher. MIP.
+2.669 48.429
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Strided prefetcher. MIP.
+2.678 51.005
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Prefetcher disabled.
+2.716 61.766
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,5). LRU. +1 prefetcher. LIP.
+2.669 48.429
+
+ L1 (15,5,0). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Strided prefetcher. LIP.
+2.678 51.005
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Prefetcher disabled.
+2.560 84.769
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,2). LRU. +1 prefetcher. MIP.
+2.513 65.933
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Strided prefetcher. MIP.
+2.522 69.571
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Prefetcher disabled.
+2.560 84.769
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,2). LFU. +1 prefetcher. MIP.
+2.513 65.933
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Strided prefetcher. MIP.
+2.522 69.571
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Prefetcher disabled.
+2.560 84.769
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,2). LRU. +1 prefetcher. LIP.
+2.513 65.933
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Strided prefetcher. LIP.
+2.522 69.571
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Prefetcher disabled.
+2.560 84.769
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,2). LFU. +1 prefetcher. LIP.
+2.513 65.933
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Strided prefetcher. LIP.
+2.522 69.571
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,3). LRU. +1 prefetcher. MIP.
+2.512 65.633
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Strided prefetcher. MIP.
+2.521 69.271
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,3). LFU. +1 prefetcher. MIP.
+2.512 65.633
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Strided prefetcher. MIP.
+2.521 69.271
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,3). LRU. +1 prefetcher. LIP.
+2.512 65.633
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Strided prefetcher. LIP.
+2.521 69.271
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,3). LFU. +1 prefetcher. LIP.
+2.512 65.633
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Strided prefetcher. LIP.
+2.521 69.271
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,4). LRU. +1 prefetcher. MIP.
+2.512 65.633
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Strided prefetcher. MIP.
+2.521 69.271
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,4). LFU. +1 prefetcher. MIP.
+2.512 65.633
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Strided prefetcher. MIP.
+2.521 69.271
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,4). LRU. +1 prefetcher. LIP.
+2.512 65.633
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Strided prefetcher. LIP.
+2.521 69.271
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,4). LFU. +1 prefetcher. LIP.
+2.512 65.633
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Strided prefetcher. LIP.
+2.521 69.271
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,5). LRU. +1 prefetcher. MIP.
+2.512 65.633
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Strided prefetcher. MIP.
+2.521 69.271
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,5). LFU. +1 prefetcher. MIP.
+2.512 65.633
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Strided prefetcher. MIP.
+2.521 69.271
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,5). LRU. +1 prefetcher. LIP.
+2.512 65.633
+
+ L1 (15,5,1). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Strided prefetcher. LIP.
+2.521 69.271
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Prefetcher disabled.
+2.559 84.469
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,5). LFU. +1 prefetcher. LIP.
+2.512 65.633
+
+ L1 (15,5,1). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Strided prefetcher. LIP.
+2.521 69.271
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Prefetcher disabled.
+2.408 95.582
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,2). LRU. +1 prefetcher. MIP.
+2.361 74.127
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Strided prefetcher. MIP.
+2.370 78.271
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Prefetcher disabled.
+2.408 95.827
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,2). LFU. +1 prefetcher. MIP.
+2.361 74.313
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Strided prefetcher. MIP.
+2.370 78.468
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Prefetcher disabled.
+2.408 95.582
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,2). LRU. +1 prefetcher. LIP.
+2.361 74.127
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,2). LRU. Strided prefetcher. LIP.
+2.370 78.271
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Prefetcher disabled.
+2.408 95.827
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,2). LFU. +1 prefetcher. LIP.
+2.361 74.313
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,2). LFU. Strided prefetcher. LIP.
+2.370 78.468
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Prefetcher disabled.
+2.407 95.282
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,3). LRU. +1 prefetcher. MIP.
+2.360 73.827
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Strided prefetcher. MIP.
+2.369 77.971
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Prefetcher disabled.
+2.407 95.527
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,3). LFU. +1 prefetcher. MIP.
+2.360 74.013
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Strided prefetcher. MIP.
+2.369 78.168
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Prefetcher disabled.
+2.407 95.282
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,3). LRU. +1 prefetcher. LIP.
+2.360 73.827
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,3). LRU. Strided prefetcher. LIP.
+2.369 77.971
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Prefetcher disabled.
+2.407 95.527
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,3). LFU. +1 prefetcher. LIP.
+2.360 74.013
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,3). LFU. Strided prefetcher. LIP.
+2.369 78.168
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Prefetcher disabled.
+2.407 95.282
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,4). LRU. +1 prefetcher. MIP.
+2.360 73.827
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Strided prefetcher. MIP.
+2.369 77.971
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Prefetcher disabled.
+2.407 95.527
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,4). LFU. +1 prefetcher. MIP.
+2.360 74.013
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Strided prefetcher. MIP.
+2.369 78.168
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Prefetcher disabled.
+2.407 95.282
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,4). LRU. +1 prefetcher. LIP.
+2.360 73.827
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,4). LRU. Strided prefetcher. LIP.
+2.369 77.971
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Prefetcher disabled.
+2.407 95.527
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,4). LFU. +1 prefetcher. LIP.
+2.360 74.013
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,4). LFU. Strided prefetcher. LIP.
+2.369 78.168
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Prefetcher disabled.
+2.407 95.282
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,5). LRU. +1 prefetcher. MIP.
+2.360 73.827
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Strided prefetcher. MIP.
+2.369 77.971
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Prefetcher disabled.
+2.407 95.527
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,5). LFU. +1 prefetcher. MIP.
+2.360 74.013
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Strided prefetcher. MIP.
+2.369 78.168
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Prefetcher disabled.
+2.407 95.282
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,5). LRU. +1 prefetcher. LIP.
+2.360 73.827
+
+ L1 (15,5,2). LRU. Prefetcher disabled. L2 (17,5,5). LRU. Strided prefetcher. LIP.
+2.369 77.971
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Prefetcher disabled.
+2.407 95.527
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,5). LFU. +1 prefetcher. LIP.
+2.360 74.013
+
+ L1 (15,5,2). LFU. Prefetcher disabled. L2 (17,5,5). LFU. Strided prefetcher. LIP.
+2.369 78.168
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Prefetcher disabled.
+2.486 37.763
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,2). LRU. +1 prefetcher. MIP.
+2.453 28.461
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Strided prefetcher. MIP.
+2.464 31.562
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Prefetcher disabled.
+2.486 37.763
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,2). LRU. +1 prefetcher. LIP.
+2.453 28.461
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Strided prefetcher. LIP.
+2.464 31.562
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Prefetcher disabled.
+2.485 37.463
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,3). LRU. +1 prefetcher. MIP.
+2.452 28.161
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Strided prefetcher. MIP.
+2.463 31.262
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Prefetcher disabled.
+2.485 37.463
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,3). LRU. +1 prefetcher. LIP.
+2.452 28.161
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Strided prefetcher. LIP.
+2.463 31.262
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Prefetcher disabled.
+2.485 37.463
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,4). LRU. +1 prefetcher. MIP.
+2.452 28.161
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Strided prefetcher. MIP.
+2.463 31.262
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Prefetcher disabled.
+2.485 37.463
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,4). LRU. +1 prefetcher. LIP.
+2.452 28.161
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Strided prefetcher. LIP.
+2.463 31.262
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Prefetcher disabled.
+2.485 37.463
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,5). LRU. +1 prefetcher. MIP.
+2.452 28.161
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Strided prefetcher. MIP.
+2.463 31.262
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Prefetcher disabled.
+2.485 37.463
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,5). LRU. +1 prefetcher. LIP.
+2.452 28.161
+
+ L1 (15,6,0). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Strided prefetcher. LIP.
+2.463 31.262
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Prefetcher disabled.
+2.324 68.895
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,2). LRU. +1 prefetcher. MIP.
+2.291 50.270
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Strided prefetcher. MIP.
+2.302 56.478
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Prefetcher disabled.
+2.324 68.895
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,2). LFU. +1 prefetcher. MIP.
+2.291 50.270
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Strided prefetcher. MIP.
+2.302 56.478
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Prefetcher disabled.
+2.324 68.895
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,2). LRU. +1 prefetcher. LIP.
+2.291 50.270
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Strided prefetcher. LIP.
+2.302 56.478
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Prefetcher disabled.
+2.324 68.895
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,2). LFU. +1 prefetcher. LIP.
+2.291 50.270
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Strided prefetcher. LIP.
+2.302 56.478
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,3). LRU. +1 prefetcher. MIP.
+2.290 49.970
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Strided prefetcher. MIP.
+2.301 56.178
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,3). LFU. +1 prefetcher. MIP.
+2.290 49.970
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Strided prefetcher. MIP.
+2.301 56.178
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,3). LRU. +1 prefetcher. LIP.
+2.290 49.970
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Strided prefetcher. LIP.
+2.301 56.178
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,3). LFU. +1 prefetcher. LIP.
+2.290 49.970
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Strided prefetcher. LIP.
+2.301 56.178
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,4). LRU. +1 prefetcher. MIP.
+2.290 49.970
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Strided prefetcher. MIP.
+2.301 56.178
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,4). LFU. +1 prefetcher. MIP.
+2.290 49.970
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Strided prefetcher. MIP.
+2.301 56.178
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,4). LRU. +1 prefetcher. LIP.
+2.290 49.970
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Strided prefetcher. LIP.
+2.301 56.178
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,4). LFU. +1 prefetcher. LIP.
+2.290 49.970
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Strided prefetcher. LIP.
+2.301 56.178
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,5). LRU. +1 prefetcher. MIP.
+2.290 49.970
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Strided prefetcher. MIP.
+2.301 56.178
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,5). LFU. +1 prefetcher. MIP.
+2.290 49.970
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Strided prefetcher. MIP.
+2.301 56.178
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,5). LRU. +1 prefetcher. LIP.
+2.290 49.970
+
+ L1 (15,6,1). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Strided prefetcher. LIP.
+2.301 56.178
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Prefetcher disabled.
+2.324 68.595
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,5). LFU. +1 prefetcher. LIP.
+2.290 49.970
+
+ L1 (15,6,1). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Strided prefetcher. LIP.
+2.301 56.178
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Prefetcher disabled.
+2.173 78.256
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,2). LRU. +1 prefetcher. MIP.
+2.139 56.828
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Strided prefetcher. MIP.
+2.150 63.970
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Prefetcher disabled.
+2.173 75.282
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,2). LFU. +1 prefetcher. MIP.
+2.140 54.744
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Strided prefetcher. MIP.
+2.151 61.590
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Prefetcher disabled.
+2.173 78.256
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,2). LRU. +1 prefetcher. LIP.
+2.139 56.828
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,2). LRU. Strided prefetcher. LIP.
+2.150 63.970
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Prefetcher disabled.
+2.173 75.282
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,2). LFU. +1 prefetcher. LIP.
+2.140 54.744
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,2). LFU. Strided prefetcher. LIP.
+2.151 61.590
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Prefetcher disabled.
+2.172 77.956
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,3). LRU. +1 prefetcher. MIP.
+2.139 56.528
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Strided prefetcher. MIP.
+2.150 63.670
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Prefetcher disabled.
+2.173 74.982
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,3). LFU. +1 prefetcher. MIP.
+2.139 54.444
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Strided prefetcher. MIP.
+2.150 61.290
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Prefetcher disabled.
+2.172 77.956
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,3). LRU. +1 prefetcher. LIP.
+2.139 56.528
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,3). LRU. Strided prefetcher. LIP.
+2.150 63.670
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Prefetcher disabled.
+2.173 74.982
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,3). LFU. +1 prefetcher. LIP.
+2.139 54.444
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,3). LFU. Strided prefetcher. LIP.
+2.150 61.290
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Prefetcher disabled.
+2.172 77.956
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,4). LRU. +1 prefetcher. MIP.
+2.139 56.528
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Strided prefetcher. MIP.
+2.150 63.670
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Prefetcher disabled.
+2.173 74.982
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,4). LFU. +1 prefetcher. MIP.
+2.139 54.444
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Strided prefetcher. MIP.
+2.150 61.290
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Prefetcher disabled.
+2.172 77.956
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,4). LRU. +1 prefetcher. LIP.
+2.139 56.528
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,4). LRU. Strided prefetcher. LIP.
+2.150 63.670
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Prefetcher disabled.
+2.173 74.982
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,4). LFU. +1 prefetcher. LIP.
+2.139 54.444
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,4). LFU. Strided prefetcher. LIP.
+2.150 61.290
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Prefetcher disabled.
+2.172 77.956
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,5). LRU. +1 prefetcher. MIP.
+2.139 56.528
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Strided prefetcher. MIP.
+2.150 63.670
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Prefetcher disabled.
+2.173 74.982
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,5). LFU. +1 prefetcher. MIP.
+2.139 54.444
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Strided prefetcher. MIP.
+2.150 61.290
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Prefetcher disabled.
+2.172 77.956
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,5). LRU. +1 prefetcher. LIP.
+2.139 56.528
+
+ L1 (15,6,2). LRU. Prefetcher disabled. L2 (17,6,5). LRU. Strided prefetcher. LIP.
+2.150 63.670
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Prefetcher disabled.
+2.173 74.982
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,5). LFU. +1 prefetcher. LIP.
+2.139 54.444
+
+ L1 (15,6,2). LFU. Prefetcher disabled. L2 (17,6,5). LFU. Strided prefetcher. LIP.
+2.150 61.290
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Prefetcher disabled.
+2.292 21.503
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,2). LRU. +1 prefetcher. MIP.
+2.270 16.391
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Strided prefetcher. MIP.
+2.279 18.454
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Prefetcher disabled.
+2.292 21.503
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,2). LRU. +1 prefetcher. LIP.
+2.270 16.391
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Strided prefetcher. LIP.
+2.279 18.454
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Prefetcher disabled.
+2.290 21.203
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,3). LRU. +1 prefetcher. MIP.
+2.269 16.091
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Strided prefetcher. MIP.
+2.277 18.154
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Prefetcher disabled.
+2.290 21.203
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,3). LRU. +1 prefetcher. LIP.
+2.269 16.091
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Strided prefetcher. LIP.
+2.277 18.154
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Prefetcher disabled.
+2.290 21.203
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,4). LRU. +1 prefetcher. MIP.
+2.269 16.091
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Strided prefetcher. MIP.
+2.277 18.154
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Prefetcher disabled.
+2.290 21.203
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,4). LRU. +1 prefetcher. LIP.
+2.269 16.091
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Strided prefetcher. LIP.
+2.277 18.154
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Prefetcher disabled.
+2.290 21.203
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,5). LRU. +1 prefetcher. MIP.
+2.269 16.091
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Strided prefetcher. MIP.
+2.277 18.154
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Prefetcher disabled.
+2.290 21.203
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,5). LRU. +1 prefetcher. LIP.
+2.269 16.091
+
+ L1 (15,7,0). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Strided prefetcher. LIP.
+2.277 18.154
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Prefetcher disabled.
+2.129 35.331
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,2). LRU. +1 prefetcher. MIP.
+2.107 25.537
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Strided prefetcher. MIP.
+2.116 29.491
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Prefetcher disabled.
+2.129 35.331
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,2). LFU. +1 prefetcher. MIP.
+2.107 25.537
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Strided prefetcher. MIP.
+2.116 29.491
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Prefetcher disabled.
+2.129 35.331
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,2). LRU. +1 prefetcher. LIP.
+2.107 25.537
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Strided prefetcher. LIP.
+2.116 29.491
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Prefetcher disabled.
+2.129 35.331
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,2). LFU. +1 prefetcher. LIP.
+2.107 25.537
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Strided prefetcher. LIP.
+2.116 29.491
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,3). LRU. +1 prefetcher. MIP.
+2.106 25.237
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Strided prefetcher. MIP.
+2.115 29.191
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,3). LFU. +1 prefetcher. MIP.
+2.106 25.237
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Strided prefetcher. MIP.
+2.115 29.191
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,3). LRU. +1 prefetcher. LIP.
+2.106 25.237
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Strided prefetcher. LIP.
+2.115 29.191
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,3). LFU. +1 prefetcher. LIP.
+2.106 25.237
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Strided prefetcher. LIP.
+2.115 29.191
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,4). LRU. +1 prefetcher. MIP.
+2.106 25.237
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Strided prefetcher. MIP.
+2.115 29.191
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,4). LFU. +1 prefetcher. MIP.
+2.106 25.237
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Strided prefetcher. MIP.
+2.115 29.191
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,4). LRU. +1 prefetcher. LIP.
+2.106 25.237
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Strided prefetcher. LIP.
+2.115 29.191
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,4). LFU. +1 prefetcher. LIP.
+2.106 25.237
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Strided prefetcher. LIP.
+2.115 29.191
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,5). LRU. +1 prefetcher. MIP.
+2.106 25.237
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Strided prefetcher. MIP.
+2.115 29.191
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,5). LFU. +1 prefetcher. MIP.
+2.106 25.237
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Strided prefetcher. MIP.
+2.115 29.191
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,5). LRU. +1 prefetcher. LIP.
+2.106 25.237
+
+ L1 (15,7,1). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Strided prefetcher. LIP.
+2.115 29.191
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Prefetcher disabled.
+2.128 35.031
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,5). LFU. +1 prefetcher. LIP.
+2.106 25.237
+
+ L1 (15,7,1). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Strided prefetcher. LIP.
+2.115 29.191
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Prefetcher disabled.
+1.974 49.448
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,2). LRU. +1 prefetcher. MIP.
+1.952 34.876
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Strided prefetcher. MIP.
+1.961 40.758
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Prefetcher disabled.
+1.974 48.713
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,2). LFU. +1 prefetcher. MIP.
+1.952 34.389
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Strided prefetcher. MIP.
+1.961 40.171
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Prefetcher disabled.
+1.974 49.448
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,2). LRU. +1 prefetcher. LIP.
+1.952 34.876
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,2). LRU. Strided prefetcher. LIP.
+1.961 40.758
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Prefetcher disabled.
+1.974 48.713
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,2). LFU. +1 prefetcher. LIP.
+1.952 34.389
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,2). LFU. Strided prefetcher. LIP.
+1.961 40.171
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Prefetcher disabled.
+1.974 49.148
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,3). LRU. +1 prefetcher. MIP.
+1.952 34.576
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Strided prefetcher. MIP.
+1.961 40.458
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Prefetcher disabled.
+1.974 48.413
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,3). LFU. +1 prefetcher. MIP.
+1.952 34.089
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Strided prefetcher. MIP.
+1.961 39.871
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Prefetcher disabled.
+1.974 49.148
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,3). LRU. +1 prefetcher. LIP.
+1.952 34.576
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,3). LRU. Strided prefetcher. LIP.
+1.961 40.458
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Prefetcher disabled.
+1.974 48.413
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,3). LFU. +1 prefetcher. LIP.
+1.952 34.089
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,3). LFU. Strided prefetcher. LIP.
+1.961 39.871
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Prefetcher disabled.
+1.974 49.148
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,4). LRU. +1 prefetcher. MIP.
+1.952 34.576
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Strided prefetcher. MIP.
+1.961 40.458
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Prefetcher disabled.
+1.974 48.413
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,4). LFU. +1 prefetcher. MIP.
+1.952 34.089
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Strided prefetcher. MIP.
+1.961 39.871
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Prefetcher disabled.
+1.974 49.148
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,4). LRU. +1 prefetcher. LIP.
+1.952 34.576
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,4). LRU. Strided prefetcher. LIP.
+1.961 40.458
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Prefetcher disabled.
+1.974 48.413
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,4). LFU. +1 prefetcher. LIP.
+1.952 34.089
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,4). LFU. Strided prefetcher. LIP.
+1.961 39.871
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Prefetcher disabled.
+1.974 49.148
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,5). LRU. +1 prefetcher. MIP.
+1.952 34.576
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Strided prefetcher. MIP.
+1.961 40.458
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Prefetcher disabled.
+1.974 48.413
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,5). LFU. +1 prefetcher. MIP.
+1.952 34.089
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Strided prefetcher. MIP.
+1.961 39.871
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Prefetcher disabled.
+1.974 49.148
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,5). LRU. +1 prefetcher. LIP.
+1.952 34.576
+
+ L1 (15,7,2). LRU. Prefetcher disabled. L2 (17,7,5). LRU. Strided prefetcher. LIP.
+1.961 40.458
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Prefetcher disabled.
+1.974 48.413
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,5). LFU. +1 prefetcher. LIP.
+1.952 34.089
+
+ L1 (15,7,2). LFU. Prefetcher disabled. L2 (17,7,5). LFU. Strided prefetcher. LIP.
+1.961 39.871
+
