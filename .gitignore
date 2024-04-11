@@ -1,2 +1,12 @@
 **/*.ipynb
 **/.DS_Store
+**/.vscode
+**/debug_outs
+**/experiment
+**/pb_out
+**/traces
+**/student_outs
+**/ref_outs
+**/*.sh
+**.txt
+
