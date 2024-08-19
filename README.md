@@ -8,6 +8,8 @@ Hi visitors. I am a master student at Georgia Tech and this reposory is for ECE6
 * Write-Through/Write-No-Allocate L2 cache
 * Insertion policy, replacement policy, prefetching.
 
+![image-20240819224220764](pictures/image-20240819224220764.png)
+
 ### Project2 : Tomasulo & Branch Predictor Simulator(90/90)
 
 Branch Predictor:
@@ -25,6 +27,8 @@ Out-of-Order execution:
 It is physically suffering doing this project. But learned some thing.
 
 :cry::cry::joy::joy:
+
+![image-20240819224212254](pictures/image-20240819224212254.png)
 
 **These public repository is for learning purpose. Please adhere to the GT Student Honor Code and do not plagiarize.**
 
